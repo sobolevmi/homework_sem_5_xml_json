@@ -69,4 +69,50 @@
             <grade>8.9</grade>
         </movie>
     </genre>
+    <genre>Комедия
+        <movie>
+            <name>1+1</name>
+            <director>Оливье Накаш</director>
+            <year>2011</year>
+            <country>Франция</country>
+            <grade>8.8</grade>
+        </movie>
+        <movie>
+            <name>Двенадцатая ночь</name>
+            <director>Тим Кэрролл</director>
+            <year>2012</year>
+            <country>Великобритания</country>
+            <grade>8.8</grade>
+        </movie>
+        <movie>
+            <name>Наваждение</name>
+            <director>Леонид Гайдай</director>
+            <year>1965</year>
+            <country>СССР</country>
+            <grade>8.8</grade>
+        </movie>
+    </genre>
+    <genre>Боевик
+        <movie>
+            <name>Леон</name>
+            <director>Люк Бессон</director>
+            <year>1994</year>
+            <country>Франция</country>
+            <grade>8.7</grade>
+        </movie>
+        <movie>
+            <name>Гладиатор</name>
+            <director>Ридли Скотт</director>
+            <year>2000</year>
+            <country>США</country>
+            <grade>8.6</grade>
+        </movie>
+        <movie>
+            <name>Карты, деньги, два ствола</name>
+            <director>Гай Ричи</director>
+            <year>1998</year>
+            <country>Великобритания</country>
+            <grade>8.6</grade>
+        </movie>
+    </genre>
 </catalog>
