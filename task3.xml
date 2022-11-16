@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <genre>Фантастика
+        <movie>
+            <name>Иван Васильевич меняет профессию</name>
+            <director>Леонид Гайдай</director>
+            <year>1973</year>
+            <country>СССР</country>
+            <grade>8.8</grade>
+        </movie>
+        <movie>
+            <name>Начало</name>
+            <director>Кристофер Нолан</director>
+            <year>2010</year>
+            <country>США</country>
+            <grade>8.7</grade>
+        </movie>
+        <movie>
+            <name>Назад в будущее</name>
+            <director>Роберт Земекис</director>
+            <year>1985</year>
+            <country>США</country>
+            <grade>8.6</grade>
+        </movie>
+    </genre>
+    <genre>История
+        <movie>
+            <name>Форрест Гамп</name>
+            <director>Роберт Земекис</director>
+            <year>1994</year>
+            <country>США</country>
+            <grade>8.9</grade>
+        </movie>
+        <movie>
+            <name>Семнадцать мгновений весны</name>
+            <director>Татьяна Лиознова</director>
+            <year>1973</year>
+            <country>СССР</country>
+            <grade>8.9</grade>
+        </movie>
+        <movie>
+            <name>Список Шиндлера</name>
+            <director>Стивен Спилберг</director>
+            <year>1993</year>
+            <country>США</country>
+            <grade>8.8</grade>
+        </movie>
+    </genre>
+    <genre>Драма
+        <movie>
+            <name>Побег из Шоушенка</name>
+            <director>Фрэнк Дарабонт</director>
+            <year>1994</year>
+            <country>США</country>
+            <grade>9.1</grade>
+        </movie>
+        <movie>
+            <name>Зеленая миля</name>
+            <director>Фрэнк Дарабонт</director>
+            <year>1999</year>
+            <country>США</country>
+            <grade>9.1</grade>
+        </movie>
+        <movie>
+            <name>Место встречи изменить нельзя</name>
+            <director>Станислав Говорухин</director>
+            <year>1979</year>
+            <country>СССР</country>
+            <grade>8.9</grade>
+        </movie>
+    </genre>
+</catalog>
